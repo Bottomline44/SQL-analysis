@@ -51,7 +51,7 @@ venv/
 # OS files
 .DS_Store
 
-# Databases (IMPORTANT FOR YOU)
+# Databases
 *.db
 *.zip
 
