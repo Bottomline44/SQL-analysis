@@ -13,8 +13,8 @@ It focuses on trends in movie ratings, genres, and popularity between 2010–201
 
 ---
 
-## 🛠️ Tools & Technologies
-- Python (Pandas, Matplotlib, Seaborn)
+##  Tools & Technologies
+- Python (Pandas, Matplotlib)
 - SQL (SQLite)
 - Jupyter Notebook
 - Data Visualization
