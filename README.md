@@ -1,12 +1,12 @@
-# 📊 SQL Movie Analysis Project
+#  SQL Analysis Project
 
-## 🎯 Overview
+##  Overview
 This project explores real-world movie industry data using SQL and Python.  
 It focuses on trends in movie ratings, genres, and popularity between 2010–2019.
 
 ---
 
-## 🧠 Key Insights
+##  Key Insights
 - Documentary and Drama are the most common genres
 - Higher-rated movies tend to have higher vote counts
 - Clear differences exist between genre popularity and rating performance
@@ -21,17 +21,16 @@ It focuses on trends in movie ratings, genres, and popularity between 2010–201
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 - SQLSummativeLab.ipynb → Main analysis notebook
 - README.md → Project documentation
 
 ---
 
-## ⚠️ Dataset Note
+##  Dataset Note
 The IMDB SQLite database is not included due to GitHub size limits.  
 It should be downloaded locally before running the notebook.
 
 ---
 
-## 🚀 Author
-Data Analysis Project using SQL + Python
+
